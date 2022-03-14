@@ -13,5 +13,13 @@ Arabic Dialect Classification using SVM, LSTM, and Fine-Tuned AraBERT.
 * [Keras](https://keras.io/)
 * [Hugging Face](https://huggingface.co/)
 * [FastAPI](https://fastapi.tiangolo.com/)
-* 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Acknowledgments
+Thanks to the authors of [AraBERT MODEL](https://github.com/aub-mind/arabert)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Contacts
+[Linkedin](https://www.linkedin.com/in/ahmedmagdy9696/)
