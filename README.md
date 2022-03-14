@@ -1,4 +1,4 @@
 # Arabic-Dialect-Classification
 ## About The Project
-[![Product Name Screen Shot](https://drive.google.com/file/d/17eTtTeTXBIQ9dbc1oMte4S6YQXI3KD7N/view?usp=sharing)
+[![Product Name Screen Shot](https://github.com/AhmedMagdy-96/Arabic-Dialects-Classification/blob/main/templates/Image/Capture4.PNG)
 Arabic Dialect Classification using SVM, LSTM, Fine-Tuned AraBERT.
